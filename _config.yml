@@ -1,7 +1,7 @@
 name: Navion Insurance
 favicon: null
-layout_spectrum: 0.7533255817834288
-typography_spectrum: 0.39108380977995694
+layout_spectrum: 0.74731
+typography_spectrum: 0.44406
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ebe7e0'
+    - '#11386e'
+    - '#929697'
+    - '#556e91'
+    - '#bac0c6'
   brandStrength: 0.4653784839902073
   lightness: 0.9577294234186411
   saturation: 0.50886309472844
